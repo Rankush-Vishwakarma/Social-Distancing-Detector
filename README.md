@@ -1,9 +1,12 @@
 
 # Social distance detector
 
-This is social detection program based on the yolov3 object detection. You need to download yolov3 weights using 
-yolov3 weights file   - https://pjreddie.com/media/files/yolov3.weights
-yolov3 configure file - https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+This is social detection program based on the yolov3 object detection. You need to download yolov3 weights using
+
+     yolov3 weights file   - https://pjreddie.com/media/files/yolov3.weights
+     yolov3 configure file - https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+
+
 #### or
 You can prefer https://pjreddie.com/darknet/yolo/ in order to load the yolo model necessary files.
  
