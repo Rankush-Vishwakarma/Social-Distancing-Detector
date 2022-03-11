@@ -1,0 +1,190 @@
+2022-03-11 16:43:27,745 Detection initialized sucessfully
+2022-03-11 16:43:27,745 Detection module working fine.
+2022-03-11 16:43:35,779 loading YOLO from disk
+2022-03-11 16:43:36,063 Model and Corresponding layers have been sucessfully loaded.
+2022-03-11 16:43:36,063 accessing video stream
+2022-03-11 16:43:36,110 video frame capturing started sucesssfully
+2022-03-11 16:43:36,948 Detected person in the frame successfully
+2022-03-11 16:43:36,949 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:36,949 SaveDate Data saved successfully.
+2022-03-11 16:43:37,006 Writing frame in output/test.avi
+2022-03-11 16:43:37,008 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:37,009 SaveDate Data saved successfully.
+2022-03-11 16:43:37,809 Detected person in the frame successfully
+2022-03-11 16:43:37,809 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:37,811 SaveDate Data saved successfully.
+2022-03-11 16:43:37,824 Writing frame in output/test.avi
+2022-03-11 16:43:37,826 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:37,827 SaveDate Data saved successfully.
+2022-03-11 16:43:38,450 Detected person in the frame successfully
+2022-03-11 16:43:38,451 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:38,451 SaveDate Data saved successfully.
+2022-03-11 16:43:38,465 Writing frame in output/test.avi
+2022-03-11 16:43:38,466 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:38,467 SaveDate Data saved successfully.
+2022-03-11 16:43:38,954 Detected person in the frame successfully
+2022-03-11 16:43:38,954 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:38,955 SaveDate Data saved successfully.
+2022-03-11 16:43:38,964 Writing frame in output/test.avi
+2022-03-11 16:43:38,965 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:38,966 SaveDate Data saved successfully.
+2022-03-11 16:43:39,432 Detected person in the frame successfully
+2022-03-11 16:43:39,432 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:39,432 SaveDate Data saved successfully.
+2022-03-11 16:43:39,442 Writing frame in output/test.avi
+2022-03-11 16:43:39,443 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:39,444 SaveDate Data saved successfully.
+2022-03-11 16:43:39,917 Detected person in the frame successfully
+2022-03-11 16:43:39,917 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:39,918 SaveDate Data saved successfully.
+2022-03-11 16:43:39,937 Writing frame in output/test.avi
+2022-03-11 16:43:39,938 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:39,939 SaveDate Data saved successfully.
+2022-03-11 16:43:40,399 Detected person in the frame successfully
+2022-03-11 16:43:40,399 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:40,400 SaveDate Data saved successfully.
+2022-03-11 16:43:40,415 Writing frame in output/test.avi
+2022-03-11 16:43:40,416 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:40,417 SaveDate Data saved successfully.
+2022-03-11 16:43:40,891 Detected person in the frame successfully
+2022-03-11 16:43:40,891 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:40,892 SaveDate Data saved successfully.
+2022-03-11 16:43:40,904 Writing frame in output/test.avi
+2022-03-11 16:43:40,905 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:40,906 SaveDate Data saved successfully.
+2022-03-11 16:43:41,377 Detected person in the frame successfully
+2022-03-11 16:43:41,377 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:41,378 SaveDate Data saved successfully.
+2022-03-11 16:43:41,398 Writing frame in output/test.avi
+2022-03-11 16:43:41,400 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:41,401 SaveDate Data saved successfully.
+2022-03-11 16:43:41,903 Detected person in the frame successfully
+2022-03-11 16:43:41,903 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:41,903 SaveDate Data saved successfully.
+2022-03-11 16:43:41,920 Writing frame in output/test.avi
+2022-03-11 16:43:41,922 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:41,922 SaveDate Data saved successfully.
+2022-03-11 16:43:42,386 Detected person in the frame successfully
+2022-03-11 16:43:42,386 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:42,387 SaveDate Data saved successfully.
+2022-03-11 16:43:42,412 Writing frame in output/test.avi
+2022-03-11 16:43:42,413 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:42,414 SaveDate Data saved successfully.
+2022-03-11 16:43:42,895 Detected person in the frame successfully
+2022-03-11 16:43:42,896 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:42,896 SaveDate Data saved successfully.
+2022-03-11 16:43:42,917 Writing frame in output/test.avi
+2022-03-11 16:43:42,918 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:42,919 SaveDate Data saved successfully.
+2022-03-11 16:43:43,481 Detected person in the frame successfully
+2022-03-11 16:43:43,481 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:43,482 SaveDate Data saved successfully.
+2022-03-11 16:43:43,504 Writing frame in output/test.avi
+2022-03-11 16:43:43,505 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:43,506 SaveDate Data saved successfully.
+2022-03-11 16:43:43,969 Detected person in the frame successfully
+2022-03-11 16:43:43,969 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:43,970 SaveDate Data saved successfully.
+2022-03-11 16:43:43,980 Writing frame in output/test.avi
+2022-03-11 16:43:43,981 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:43,982 SaveDate Data saved successfully.
+2022-03-11 16:43:44,460 Detected person in the frame successfully
+2022-03-11 16:43:44,460 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:44,461 SaveDate Data saved successfully.
+2022-03-11 16:43:44,488 Writing frame in output/test.avi
+2022-03-11 16:43:44,490 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:44,491 SaveDate Data saved successfully.
+2022-03-11 16:43:44,964 Detected person in the frame successfully
+2022-03-11 16:43:44,964 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:44,965 SaveDate Data saved successfully.
+2022-03-11 16:43:44,990 Writing frame in output/test.avi
+2022-03-11 16:43:44,991 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:44,992 SaveDate Data saved successfully.
+2022-03-11 16:43:45,541 Detected person in the frame successfully
+2022-03-11 16:43:45,541 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:45,542 SaveDate Data saved successfully.
+2022-03-11 16:43:45,559 Writing frame in output/test.avi
+2022-03-11 16:43:45,561 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:45,561 SaveDate Data saved successfully.
+2022-03-11 16:43:46,165 Detected person in the frame successfully
+2022-03-11 16:43:46,165 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:46,166 SaveDate Data saved successfully.
+2022-03-11 16:43:46,188 Writing frame in output/test.avi
+2022-03-11 16:43:46,190 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:46,190 SaveDate Data saved successfully.
+2022-03-11 16:43:46,697 Detected person in the frame successfully
+2022-03-11 16:43:46,697 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:46,698 SaveDate Data saved successfully.
+2022-03-11 16:43:46,711 Writing frame in output/test.avi
+2022-03-11 16:43:46,712 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:46,712 SaveDate Data saved successfully.
+2022-03-11 16:43:47,194 Detected person in the frame successfully
+2022-03-11 16:43:47,194 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:47,195 SaveDate Data saved successfully.
+2022-03-11 16:43:47,218 Writing frame in output/test.avi
+2022-03-11 16:43:47,219 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:47,220 SaveDate Data saved successfully.
+2022-03-11 16:43:47,713 Detected person in the frame successfully
+2022-03-11 16:43:47,713 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:47,714 SaveDate Data saved successfully.
+2022-03-11 16:43:47,725 Writing frame in output/test.avi
+2022-03-11 16:43:47,726 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:47,727 SaveDate Data saved successfully.
+2022-03-11 16:43:48,246 Detected person in the frame successfully
+2022-03-11 16:43:48,246 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:48,247 SaveDate Data saved successfully.
+2022-03-11 16:43:48,265 Writing frame in output/test.avi
+2022-03-11 16:43:48,266 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:48,267 SaveDate Data saved successfully.
+2022-03-11 16:43:48,783 Detected person in the frame successfully
+2022-03-11 16:43:48,783 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:48,784 SaveDate Data saved successfully.
+2022-03-11 16:43:48,808 Writing frame in output/test.avi
+2022-03-11 16:43:48,810 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:48,811 SaveDate Data saved successfully.
+2022-03-11 16:43:49,313 Detected person in the frame successfully
+2022-03-11 16:43:49,314 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:49,314 SaveDate Data saved successfully.
+2022-03-11 16:43:49,327 Writing frame in output/test.avi
+2022-03-11 16:43:49,328 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:49,328 SaveDate Data saved successfully.
+2022-03-11 16:43:49,820 Detected person in the frame successfully
+2022-03-11 16:43:49,820 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:49,821 SaveDate Data saved successfully.
+2022-03-11 16:43:49,833 Writing frame in output/test.avi
+2022-03-11 16:43:49,834 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:49,835 SaveDate Data saved successfully.
+2022-03-11 16:43:50,326 Detected person in the frame successfully
+2022-03-11 16:43:50,326 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:50,327 SaveDate Data saved successfully.
+2022-03-11 16:43:50,334 Writing frame in output/test.avi
+2022-03-11 16:43:50,335 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:50,336 SaveDate Data saved successfully.
+2022-03-11 16:43:50,840 Detected person in the frame successfully
+2022-03-11 16:43:50,840 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:50,841 SaveDate Data saved successfully.
+2022-03-11 16:43:50,847 Writing frame in output/test.avi
+2022-03-11 16:43:50,849 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:50,849 SaveDate Data saved successfully.
+2022-03-11 16:43:51,372 Detected person in the frame successfully
+2022-03-11 16:43:51,372 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:51,373 SaveDate Data saved successfully.
+2022-03-11 16:43:51,612 Writing frame in output/test.avi
+2022-03-11 16:43:51,613 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:51,614 SaveDate Data saved successfully.
+2022-03-11 16:43:52,195 Detected person in the frame successfully
+2022-03-11 16:43:52,195 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:52,196 SaveDate Data saved successfully.
+2022-03-11 16:43:52,227 Writing frame in output/test.avi
+2022-03-11 16:43:52,228 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:52,229 SaveDate Data saved successfully.
+2022-03-11 16:43:52,816 Detected person in the frame successfully
+2022-03-11 16:43:52,816 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:52,817 SaveDate Data saved successfully.
+2022-03-11 16:43:52,824 Writing frame in output/test.avi
+2022-03-11 16:43:52,825 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:52,826 SaveDate Data saved successfully.
+2022-03-11 16:43:53,328 Detected person in the frame successfully
+2022-03-11 16:43:53,328 SaveDate Saving data into dataset.csv file
+2022-03-11 16:43:53,329 SaveDate Data saved successfully.
+2022-03-11 16:43:53,345 user quit live stream successfully
