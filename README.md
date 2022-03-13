@@ -37,6 +37,8 @@ it has mainly three features
 
 https://user-images.githubusercontent.com/96487589/158069941-a7fad357-542f-4972-8184-4e024c0b92fc.mp4
 
+## Flow Diagram
+[flow.drawio.pdf](https://github.com/Rankush888/Social-Distancing-Detector/files/8240287/flow.drawio.pdf)
 
 ## Refrences
 
