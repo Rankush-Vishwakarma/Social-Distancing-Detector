@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/96487589/158069941-a7fad357-542f-4972-
 ## Flow Diagram
 [flow.drawio.pdf](https://github.com/Rankush888/Social-Distancing-Detector/files/8240287/flow.drawio.pdf)
 
-## high level Document
+## high level Design Documentation
 [HLD-SocialDistanceDetector.pdf](https://github.com/Rankush888/Social-Distancing-Detector/files/8242164/HLD-SocialDistanceDetector.pdf)
 ## Refrences
 
